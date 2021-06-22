@@ -34,7 +34,7 @@
     Do Exception handling
     Do Code documentation
 
-### Languages used in this project.
+### Programming Languages used in this project.
 
       Java (Spring Boot)
 	  Angular
